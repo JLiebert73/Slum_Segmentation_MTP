@@ -1,2 +1,2 @@
 # Slum_Segmentation_MTP
-Code and datasets for my Masters Thesis Project (and Bachelors Thesis Project)
+Code and datasets for my Masters Thesis Project (and Bachelors Thesis Project) (to be added in due course)
